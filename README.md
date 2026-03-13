@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Ksynik/Ksynik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Здравствуйте! Меня зовут Никифорова Ксения, я frontend‑разработчик.
+С детства увлекалась компьютерными технологиями, а во взрослом возрасте осознанно выбрала профессию frontend‑разработчика. Для освоения специальности:
+самостоятельно изучила основы веб‑разработки;
+прошла полный профильный курс.
+Навыки:
+верстка: HTML, CSS;
+программирование: JavaScript, TypeScript;
+основы работы с React.
+В настоящее время совмещаю основную работу в сфере медицины с активным изучением frontend‑технологий и нахожусь в поиске вакансий frontend‑разработчика для профессионального перехода в IT‑сферу.
+Контакты:
+Email: nikiforova61916@gmail.com
+вк: https://vk.com/ksenixxx
+тг: https://t.me/Twiinki23
